@@ -6,10 +6,10 @@ from .config import Config
 
 # 定义插件元信息，用于 help 等场景
 __plugin_meta__ = PluginMetadata(
-    name="osu!综合查询插件",
-    description="一个功能丰富的 osu! 查询与推荐插件。",
+    name="Kon! bot",
+    description="一个 osu! 推图bot。",
     usage="""
-本插件提供以下 osu! 相关查询功能：
+提供以下 osu! 功能：
 - /bid [谱面ID]: 查询谱面详细信息和 Oracle 分类。
 - /konbind [用户名]: 绑定你的 osu! 账号。
 - /konunbind: 解除 osu! 账号绑定。
