@@ -1,11 +1,14 @@
-# test1
+# Credit
 
-## How to start
+This project uses the following projects:
 
-1. generate project using `nb create` .
-2. install plugins using `nb plugin install` .
-3. run your bot using `nb run` .
+[NoneBot](https://nonebot.dev/)
+[NapCat](https://github.com/NapNeko/NapCatQQ/)
+[osu! oracle](https://github.com/Ohdmire/osu_oracle/)
 
-## Documentation
+# Special Thanks
 
-See [Docs](https://nonebot.dev/)
+[柚爹](https://osu.ppy.sh/users/4284817)
+
+[Gemini](https://aistudio.google.com/)
+
